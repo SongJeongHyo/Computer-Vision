@@ -1,0 +1,11 @@
+Red ~~~~ Cyan
+
+
+
+Green ~~~~~ Magenta
+
+
+
+Blue ~~~~ Yellow
+
+처럼 만들기
